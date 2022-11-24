@@ -31,6 +31,7 @@ nav:
           - 限流: user-guide/best-practices/traffic-manage/rate-limit.md
           - 熔断: user-guide/best-practices/traffic-manage/circuit-breaker.md
           - 降级: user-guide/best-practices/traffic-manage/downgrade.md
+          - 流量染色: user-guide/best-practices/traffic-manage/traffic-mark.md
         - 安全:
           - CORS: user-guide/best-practices/security/cors.md
           - Dos: user-guide/best-practices/security/Dos.md
