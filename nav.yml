@@ -51,7 +51,11 @@ nav:
 
     - 组件配置:
       - Overview: reference/index.md
-      - TODO: todo
+      - 数据库对接: reference/database.md
+      - 网关配置: reference/gateway.md
+      - 对接注册中心: reference/registry.md
+      - 模块开关: reference/module.md
+      - 插件开关: reference/pluginmanager.md
 
     - 开发手册:
       - 代码贡献: developer-guide/contributing.md
