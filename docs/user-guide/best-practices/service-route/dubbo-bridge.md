@@ -1,5 +1,7 @@
 # Dubbo协议转换
 
+> 支持版本: v1.2.0+
+
 Dubbo Bridge提供了HTTP -> Dubbo的能力,入口请求支持http, upstrem为Dubbo 协议的服务。
 
 ![dubbo bridge](img/dubbo-bridge.png)
